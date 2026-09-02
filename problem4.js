@@ -1,4 +1,7 @@
 
+///...Problem4...///
+
+
 function getCngFare(distance, isNight = false, waitingMinutes = 0) {
     let fare = 50;
 
