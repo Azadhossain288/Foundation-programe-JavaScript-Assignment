@@ -1,5 +1,5 @@
 
-
+//...Problem2...///
 
 
 function getDayType(day){
